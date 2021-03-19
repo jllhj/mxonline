@@ -16,7 +16,7 @@ Django==1.11.11
 django-ranged-response==0.2.0
 django-redis==4.10.0
 django-simple-captcha==0.5.10
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 Flask==1.0.2
 Flask-Script==2.0.6
 Flask-Session==0.3.1
