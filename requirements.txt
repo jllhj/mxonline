@@ -35,7 +35,7 @@ lxml==4.2.4
 MarkupSafe==1.0
 matplotlib==3.0.2
 numpy==1.15.4
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 parsel==1.5.0
 Pillow==5.2.0
 pyasn1==0.4.4
